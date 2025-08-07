@@ -30,18 +30,6 @@ To build a predictive model using sonar data that can distinguish between rocks 
 
 ---
 
-## 📁 Folder Structure
-```bash
-sonar-rock-vs-mine-detector/
-├── sonar_data.csv
-├── sonar_model.pkl
-├── Rock_vs_Mine_Prediction.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## ⚙️ Installation
 
 ### 1. **Clone the Repository**

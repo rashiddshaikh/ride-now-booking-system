@@ -68,21 +68,28 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-🧪 Model Overview
-Algorithm Used: Logistic Regression / KNN / SVM (You can mention your choice)
+## 🧪 Model Overview
 
-Accuracy Achieved: ~85-90% (based on cross-validation)
+**Algorithm Used:** Logistic Regression / KNN / SVM (You can mention your choice)
 
-Input: 60 sonar signal attributes
+**Accuracy Achieved:** ~85–90% (based on cross-validation)
 
-Output: Binary classification (Rock or Mine)
+**Input:** 60 sonar signal attributes
 
-🚀 Future Improvements
-Build a web interface using Flask or Streamlit
+**Output:** Binary classification (Rock or Mine)
 
-Add more ML models and compare performance
+---
 
-Deploy model using Docker or Render
+## 🚀 Future Improvements
+
+- Build a web interface using Flask or Streamlit
+
+- Add more ML models and compare performance
+
+- Deploy model using Docker or Render
+
+
+---
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/rashiddshaikh/sonar-rock-vs-mine-detector)
 ![GitHub forks](https://img.shields.io/github/forks/rashiddshaikh/sonar-rock-vs-mine-detector)
